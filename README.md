@@ -1,7 +1,7 @@
 # HTU_Group_Three
 
 ### Web3 BUIDL ARBITRUM DEVELOPER WORKSHOP `HO TECHNICAL UNIVERSITY GROUP THREE` 
-### A Two day packed workshop to onboard newbies to web3 development by teaching them how to build  smart contracts , deploying and verifying onchain, and connecting the smart contract to a frontend 
+### A Three day packed workshop to onboard newbies to web3 development by teaching them how to build  smart contracts , deploying and verifying onchain, and connecting the smart contract to a frontend 
 
 #### This repository contains the implementation of a decentralized storage contract along with a frontend interface. Each team member has worked on their respective branches to contribute to the project
 
